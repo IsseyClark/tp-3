@@ -8,4 +8,6 @@
 #define FIZZ "Fizz"
 #define BUZZ "Buzz"
 
+void my_function(int myint);
+
 #endif //TP_3_MVS_FIZZBUZZ_H
